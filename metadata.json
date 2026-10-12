@@ -1,0 +1,6 @@
+{
+  "name": "SEO Reseller Site Finder",
+  "description": "Multi-sheet instant domain lookup, price comparison, and inventory matcher across reseller CSV databases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

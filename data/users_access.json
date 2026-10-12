@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "email": "mikerama845@gmail.com",
+      "role": "admin",
+      "status": "approved",
+      "createdAt": "2026-10-12T09:46:56.463Z",
+      "approvedAt": "2026-10-12T09:46:56.463Z",
+      "lastActiveAt": "2026-10-12T09:46:59.458Z"
+    }
+  ],
+  "updatedAt": "2026-10-12T09:46:59.494Z"
+}
